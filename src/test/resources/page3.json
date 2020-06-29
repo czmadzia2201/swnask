@@ -1,0 +1,17 @@
+{
+  "count": 6,
+  "next": null,
+  "previous": "http://swapi.dev/api/people/?page=2",
+  "results": [
+    {
+      "name": "Chewbacca",
+      "height": "228",
+      "mass": "112"
+    },
+    {
+      "name": "Han Solo",
+      "height": "180",
+      "mass": "80"
+    }
+  ]
+}

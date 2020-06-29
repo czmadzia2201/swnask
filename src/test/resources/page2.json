@@ -1,0 +1,17 @@
+{
+  "count": 6,
+  "next": "http://swapi.dev/api/people/?page=3",
+  "previous": "http://swapi.dev/api/people/?page=1",
+  "results": [
+    {
+      "name": "Anakin Skywalker",
+      "height": "188",
+      "mass": "84"
+    },
+    {
+      "name": "Wilhuff Tarkin",
+      "height": "180",
+      "mass": "unknown"
+    }
+  ]
+}

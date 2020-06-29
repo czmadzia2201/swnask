@@ -1,0 +1,17 @@
+{
+  "count": 6,
+  "next": "http://swapi.dev/api/people/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "name": "Luke Skywalker",
+      "height": "172",
+      "mass": "77"
+    },
+    {
+      "name": "C-3PO",
+      "height": "167",
+      "mass": "75"
+    }
+  ]
+}
